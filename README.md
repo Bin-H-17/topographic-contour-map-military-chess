@@ -66,9 +66,3 @@ In 1824, Prussian officer von Reisswitz invented Kriegsspiel using contour maps 
 
 直接用浏览器打开 `index.html` 即可，无需安装任何依赖。
 
----
-
-## 关于作者
-
-数学专业本科生，AI 工具重度用户。
-本项目由 Trae IDE + AI 协作开发。
