@@ -1,4 +1,6 @@
 # 等高线战术推演 · Contour Line Wargame
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Bin-H-17/topographic-contour-map-military-chess/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Bin-H-17/topographic-contour-map-military-chess)
+[![Play Online](https://img.shields.io/badge/Play-Online-brightgreen)](https://bin-h-17.github.io/topographic-contour-map-military-chess/)
 
 > Trae AI 创造力大赛 · 生活娱乐 / 造点新花样
 
